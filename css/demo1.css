@@ -16,6 +16,7 @@
 }
 
 body {
+    text-align: center;
     font-family: 'kionaregular';
     background-image: url(../img/1.jpg);
 }

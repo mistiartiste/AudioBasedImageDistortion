@@ -4,5 +4,6 @@ body {
 }
 
 .content__title {
-    font-size: 10vw;
+    text-align: center;
+    font-size: 8vw;
 }
